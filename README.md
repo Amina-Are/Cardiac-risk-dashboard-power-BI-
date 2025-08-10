@@ -7,8 +7,6 @@ This dashboard integrates:
 - Chronic condition prevalence
 - Borough-level deprivation (IMD) data
 
-Built in Power BI Desktop. Due to email restrictions, the `.pbix` file is shared via [Google Drive link here].
-
 ### 🔍 Key Features
 - Dynamic filtering by borough and risk level
 - DAX-driven flags for attendance and condition clustering
